@@ -1,2 +1,25 @@
-# WatchMyBirds-Train-YOLO
- Training an ultralytics yolo model
+﻿# WatchMyBirds-Train-YOLO
+
+This dataset from [**WatchMyBirds-Data**](https://github.com/arminfabritzek/WatchMyBirds-Data)
+was used to train the model for [**WatchMyBirds**](https://github.com/arminfabritzek/WatchMyBirds).
+
+The best model is available under best_model/weights/best.pt
+[**BEST MODEL**](best_model/weights/best.pt)
+
+All species we merged to train a general bird detector.
+
+---
+
+**Training Data:**
+![WatchMyBirds](https://raw.githubusercontent.com/arminfabritzek/WatchMyBirds-Data/main/stats/approved_annotations_per_species.png)
+
+---
+
+**Training Statistics:**
+---
+![](best_model/results.png)
+---
+![](best_model/labels_correlogram.jpg)
+---  
+![](best_model/labels.jpg)
+---  
