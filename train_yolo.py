@@ -108,6 +108,15 @@ if __name__ == "__main__":
     print("✅ Training finished. Best model should be in "
           f"{os.path.join(RUNS_FOLDER, run_name, 'weights', 'best.pt')}")
 
+    # --- Export the best model to ONNX format ---
+    best_model_path = os.path.join(RUNS_FOLDER, run_name, "weights", "best.pt")
+    print(f"Exporting best model from {best_model_path} to ONNX format.")
+    # Create a new YOLO instance with the best weights
+    best_model = YOLO(best_model_path)
+    # Export to ONNX with the specified image size and opset version
+    best_model.export(format="onnx", imgsz=[640, 640], opset=12)
+    print("✅ Export complete.")
+
     # ------------------------------------------------------------------------------
     # Copy configuration files to a training_config folder (excluding images)
     # ------------------------------------------------------------------------------
