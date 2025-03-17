@@ -6,7 +6,7 @@ train:
   patience: 10
   optimizer: "SGD"
   plots: true
-  workers: 8
+  workers: 16
 
 resize_bboxes:
   enable: true

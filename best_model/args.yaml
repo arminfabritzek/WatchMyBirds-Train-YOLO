@@ -11,7 +11,7 @@ save: true
 save_period: -1
 cache: false
 device: null
-workers: 8
+workers: 16
 project: /home/user/training
 name: best_latest
 exist_ok: false
