@@ -6,7 +6,7 @@ was used to train the model for [**WatchMyBirds**](https://github.com/arminfabri
 The best model is available under best_model/weights/best.pt
 [**BEST MODEL**](best_model/weights/best.pt)
 
-The model was trained on 16 classes.
+The model was trained on 19 classes.
 
 ---
 
