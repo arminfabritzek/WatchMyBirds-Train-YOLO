@@ -7,18 +7,26 @@ names:
   1: Carduelis_carduelis
   2: Certhia_brachydactyla
   3: Chloris_chloris
-  4: Columba_palumbus
-  5: Cyanistes_caeruleus
-  6: Dendrocopos_major
-  7: Emberiza_citrinella
-  8: Erithacus_rubecula
-  9: Fringilla_coelebs
-  10: Garrulus_glandarius
-  11: Parus_major
-  12: Passer_domesticus
-  13: Phoenicurus_ochruros
-  14: Pica_pica
-  15: Pyrrhula_pyrrhula
-  16: Sitta_europaea
-  17: Spinus_spinus
-  18: Turdus_merula
+  4: Coccothraustes_coccothraustes
+  5: Columba_palumbus
+  6: Cyanistes_caeruleus
+  7: Dendrocopos_major
+  8: Emberiza_citrinella
+  9: Erithacus_rubecula
+  10: Fringilla_coelebs
+  11: Fringilla_montifringilla
+  12: Garrulus_glandarius
+  13: Lophophanes_cristatus
+  14: Parus_major
+  15: Passer_domesticus
+  16: Periparus_ater
+  17: Phoenicurus_ochruros
+  18: Phylloscopus_collybita
+  19: Pica_pica
+  20: Poecile_palustris
+  21: Pyrrhula_pyrrhula
+  22: Sitta_europaea
+  23: Spinus_spinus
+  24: Sylvia_atricapilla
+  25: Turdus_merula
+  26: Turdus_philomelos
