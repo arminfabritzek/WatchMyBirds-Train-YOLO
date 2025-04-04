@@ -18,12 +18,14 @@
   "16": "Periparus_ater",
   "17": "Phoenicurus_ochruros",
   "18": "Phylloscopus_collybita",
-  "19": "Pica_pica",
-  "20": "Poecile_palustris",
-  "21": "Pyrrhula_pyrrhula",
-  "22": "Sitta_europaea",
-  "23": "Spinus_spinus",
-  "24": "Sylvia_atricapilla",
-  "25": "Turdus_merula",
-  "26": "Turdus_philomelos"
+  "19": "Phylloscopus_trochilus",
+  "20": "Pica_pica",
+  "21": "Poecile_palustris",
+  "22": "Pyrrhula_pyrrhula",
+  "23": "Sitta_europaea",
+  "24": "Spinus_spinus",
+  "25": "Sylvia_atricapilla",
+  "26": "Troglodytes_troglodytes",
+  "27": "Turdus_merula",
+  "28": "Turdus_philomelos"
 }
